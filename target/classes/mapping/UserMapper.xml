@@ -80,7 +80,4 @@
         where id = #{id,jdbcType=INTEGER}
     </update>
 
-<select id="">
-</select>
-
 </mapper>
